@@ -9,6 +9,22 @@ An end-to-end business intelligence dashboard built on the classic **Northwind S
 
 ---
 
+## Dashboard Preview
+
+### 1. Executive Overview
+![Executive Overview](Executive.png)
+
+### 2. Product Performance Analysis
+![Product Performance](Products.png)
+
+### 3. Customer Churn Analysis
+![Churn Analysis](Churn_Analysis.png)
+
+### 4. Insights & Recommendations
+![Insights](Insights%20%26%20Recommendations.png)
+
+---
+
 ## Dashboard Pages
 
 ### 1. 🏢 Executive Overview
